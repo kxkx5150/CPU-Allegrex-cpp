@@ -19,6 +19,10 @@ sudo apt-get install libpng-dev zlib1g-dev
 
 
 
+https://user-images.githubusercontent.com/10168979/201950042-13730f80-5b89-4312-9d61-e58fdf4f361d.mp4
+
+
+
 
 
 use [PPSSPP v1.0.1](https://github.com/hrydgard/ppsspp) as a reference
